@@ -6,13 +6,10 @@ package veschinitorneo;
 
 /**
  *
- * @author B045_04
+ * @author Federico_Veschini
+ * @see scheda esercitazione
  */
 public class Torneo {
-
-    /**
-     * @param args the command line arguments
-     */
     public static void main(String[] args) {
         // TODO code application logic here
     }
